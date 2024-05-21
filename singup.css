@@ -1,0 +1,64 @@
+.contact{
+    background-color: #f6f5f4;
+    height: 833px;
+}
+
+.text-center{
+
+    text-align: center;
+    padding-top: 30px;
+   font-family: 'Ubuntu', sans-serif;
+    font-size: 35px;
+}
+
+/* .background{
+    background: rgba(0, 0, 0, 0.7) url('../image/singup.jpg');
+    background-size: cover ;
+    background-blend-mode: darken;
+    z-index: 1; 
+    opacity: 0.8;
+} */
+
+
+.form{
+    left: 60%;
+    width: 300px;
+    margin: 25px auto;
+}
+
+.form-input{
+    margin: 14px 0;
+    padding: 5px 13px;
+    width: 87%; 
+    font-size: 19px;
+    border: 2px solid grey;
+    border-radius: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    position: relative;
+    top: 55%;
+    left: 37.5%;
+    padding: 8px 20px;
+    margin: 7px 3px;
+    border: 2px solid white;
+    border-radius: 8px; 
+    background: none;
+    color: white;
+    cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+.btn-sm{
+    padding: 6px 10px;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+.btn-dark{
+    color: black;
+     border: 2px solid grey;
+
+}
